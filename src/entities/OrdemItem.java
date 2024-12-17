@@ -41,7 +41,7 @@ public class OrdemItem {
         this.product = product;
     }
 
-    public double subTotal(){
+    public double subTotal() {
         return price * quantity;
     }
 
